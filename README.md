@@ -8,5 +8,7 @@ Realised with HC-05 Bluetooth module combined by MIT App Inventor created mobile
 **Osina Veronica** - helping for the most annoying part of work - finding people and information
 
 **Golikova Irina Aleksandrovna** - helping with the project design
+
+...and the lab team: Bychkov Yaroslav, Tsilina Elisaveta, Mironov Vladislav, Trubnikov Ivan and Misulin Alexandr. You are the best ♡
 ##
 
