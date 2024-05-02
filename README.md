@@ -6,5 +6,5 @@ Realised with HC-05 Bluetooth module combined by MIT App Inventor created mobile
 **Adamskiy Sergey Sergeyevich** - the GOAT of the project, the reason why it happend
 **Osina Veronica** - helping for the most annoying part of work - finding people and information
 **Golikova Irina Aleksandrovna** - helping with the project design
-
+##
 
